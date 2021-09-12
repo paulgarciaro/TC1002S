@@ -2,9 +2,7 @@
 
 This repository has all the information and files for "TC1002S Herramientas computacionales El arte de la analítica"
 
-Instrucctions for students:
-
-Part 1: clone this repository and create a folder for your assignments
+Instrucctions for students: clone this repository and create a folder for your assignments
 1) Clone this repository in your local computer (use git commands: clone)
 2) Create a folder in "AD21/TecWeek1/" named as your code number
 3) Add to your folder all the files you need to or might want
