@@ -13,13 +13,9 @@ Part 1: clone this repository and create a folder for your assignments
 
 You are now ready to work in your local machine in all the assignments
 
-Part 2: Work in your assignments
-1) Download all changes to your local machine committed by other contributors (use git commands: pull)
-2) Make changes in your files, create new files or folders
-3) Upload all your changes to the remote repository (use git commands: add, commit, push)
+Recall to download all changes to your local machine committed by other contributors (use git commands: pull)
 
-
-
+Also, each time you finish your work (changes in your files, create new files or folders), you should upload all your changes to the remote repository (use git commands: add, commit, push)
 
 Please email me at mauricio.antelis@gmail.com if you have any inquiry or suggestion
 
