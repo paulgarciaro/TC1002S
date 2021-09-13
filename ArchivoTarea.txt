@@ -1,3 +1,0 @@
-he creado este archio en mi repositorio local (Roberto Barajas)
-
-voy a subirlo al repositorio remoto: git add, git commit, git push
