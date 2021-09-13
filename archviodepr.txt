@@ -1,4 +1,0 @@
-nuevoooooo
-del local al remoto
-
-git add, git commit, git push
