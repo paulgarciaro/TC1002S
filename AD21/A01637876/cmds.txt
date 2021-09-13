@@ -1,0 +1,14 @@
+// get changes
+git pull
+
+// add files
+git add *file*
+
+// remove files
+git rm *file*
+
+// commit changes
+git commit -m "message"
+
+// upload changes
+git push
