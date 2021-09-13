@@ -25,5 +25,5 @@ ID,Age,Gender,GenderGroup,Glasses,GlassesGroup,Height,Wingspan,CWDistance,Comple
 24,26,M,2,N,0,69,71,63,Y,1,5
 25,23,F,1,Y,1,65,63,67,N,0,3
 26,30,F,1,N,0,74.6,NaN,71,Y,1,9
-27,NaN,M,2,N,0,71,70,101,Y,1,8
+27,NaN,M,2,N,0,71,70,101,Y,NaN,8
 28,27,M,2,N,0,NaN,71.5,103,Y,1,10
